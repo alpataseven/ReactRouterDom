@@ -1,0 +1,23 @@
+[
+    {
+      "id": 0,
+      "name": "Ana Sayfa",
+      "href": "#"
+    },
+    {
+      "id": 1,
+      "name": "Hakkımızda",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "name": "Ürünler",
+      "href": "#"
+    },
+    {
+      "id": 3,
+      "name": "İletişim",
+      "href": "#"
+    }
+]
+  
