@@ -2,22 +2,22 @@
     {
       "id": 0,
       "name": "Ana Sayfa",
-      "href": "#"
+      "href": "/"
     },
     {
       "id": 1,
       "name": "Hakkımızda",
-      "href": "#"
+      "href": "/urunler"
     },
     {
       "id": 2,
       "name": "Ürünler",
-      "href": "#"
+      "href": "/about"
     },
     {
       "id": 3,
       "name": "İletişim",
-      "href": "#"
+      "href": "/contact"
     }
 ]
   
