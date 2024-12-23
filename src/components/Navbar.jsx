@@ -3,7 +3,7 @@ import navbarItem from "./navbarItem.json"
 const Navbar = () => {
 
     return (
-            <nav id="navigation-bar" className="navbar navbar-expand-lg bg-body-tertiary container-fluid">
+            <nav id="navigation-bar" className="navbar navbar-expand-lg bg-body-tertiary container-fluid mb-3">
                 <div className="container">
                     <a className="navbar-brand text-light fw-bold" href="#">Store 34</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
