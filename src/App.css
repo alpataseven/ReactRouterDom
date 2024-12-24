@@ -19,3 +19,12 @@ body {
   border-bottom: 1px solid #345edc;
   text-transform: uppercase;
 }
+
+#navigation-bar-item {
+  display: flex;
+  justify-content: end;
+}
+
+.swal-overlay {
+  background-color: rgba(184, 21, 21, 0.45);
+}

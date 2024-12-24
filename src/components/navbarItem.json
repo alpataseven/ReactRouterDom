@@ -7,12 +7,12 @@
     {
       "id": 1,
       "name": "Hakkımızda",
-      "href": "/urunler"
+      "href": "/about"
     },
     {
       "id": 2,
       "name": "Ürünler",
-      "href": "/about"
+      "href": "/urunler"
     },
     {
       "id": 3,
